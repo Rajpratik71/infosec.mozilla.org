@@ -23,12 +23,17 @@ Infosec assists Mozillians in defining and operating security controls to ensure
 For security incidents, file a bug in Bugzilla under the product/component [investigation](https://bugzilla.mozilla.org/enter_bug.cgi?product=Enterprise%20Information%20Security&component=Investigation) or [incidents](https://bugzilla.mozilla.org/enter_bug.cgi?product=Enterprise%20Information%20Security&component=Incident).
 
 ## Members
-  - Jason Falivene *[@jfalivene]*
-    - Gene Wood *[@gene]*
-      - April King *[@april]*
-      - Brandon Myers *[@pwnbus]*
-    - Tristan Weir *[@weir]*
-      - Alicia Smith *[@phrozyn]*
-      - Lucius Bono *[@lucius]*
-      - Michal Purzynski *[@michał]*
-      - Arcadia Rose *[@arcadia]*
+  - Guillaume Destuynder [🐦](https://twitter.com/kangsterizer) [💻](https://github.com/gdestuynder/) *[@kang]*
+  - Gene Wood *[@gene]*
+  - April King *[@April]*
+  - Andrew Krug *[@andrew]*
+  - Justin Dow *[@jabba]*
+  - Jonathan Claudius *[@claudijd]*
+  - Caglar Ulucenk *[@Cag]*
+  - Tristan Weir *[@weir]*
+    - Alicia Smith *[@phrozyn]*
+    - Brandon Myers *[@pwnbus]*
+    - Lucius Bono *[@lucius]*
+    - Michal Purzynski *[@michał]*
+    - Emma Rose *[@emma]*
+
